@@ -12,11 +12,11 @@ provide technical assistance, capacity-building, and advocacy work.
 
 ## Repository Contents  
 
-Bah-SageUsa  
-├── List-Data Dept Survey Questions.pdf   
-├── Project_Charter-DataUsagePolicy.docx    
-├── Project_Charter-DataUsagePolicy.pdf . 
-├── Report_ Comparing Data Management Platforms.pdf  
-├── Web Properties Budget Proposal-2017-2018.pdf   
-└── sample-data   
-    └── 114th Congress Guide and Elections Data by District.xlsx   
+
+| Document Name                              | Description   |
+| ------------------------------------------ | ------------- |
+| List-Data Dept Survey Questions      | Sample survey questions to diagnose staff engagement and usage of everyday digital tools. Use as a template for survey tools like SurveyMonkey, etc.        |
+| Project_Charter-DataUsagePolicy    | Working agreement with client to outline goals and expectations for Data Usage Policy        |
+| Report_ Comparing Data Management Platforms    | Comparison between Hubspot and Salesforce for business needs. |
+| Web Properties Budget Proposal-2017-2018    | Strategic budget proposal for services. Sensitive server information blacked out.        |
+| 114th Congress Guide and Elections Data by District        | Use case of polling data. |
