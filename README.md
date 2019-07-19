@@ -15,7 +15,7 @@ provide technical assistance, capacity-building, and advocacy work.
 
 | Document Name                              | Description   |
 | ------------------------------------------ | ------------- |
-| List-Data Dept Survey Questions      | Sample survey questions to diagnose staff engagement and usage of everyday digital tools. Use as a template for survey tools like SurveyMonkey, etc.        |
+| ![List-Data Dept Survey Questions](/List-Data Dept Survey Questions.pdf)      | Sample survey questions to diagnose staff engagement and usage of everyday digital tools. Use as a template for survey tools like SurveyMonkey, etc.        |
 | Project_Charter-DataUsagePolicy    | Working agreement with client to outline goals and expectations for Data Usage Policy        |
 | Report_ Comparing Data Management Platforms    | Comparison between Hubspot and Salesforce for business needs. |
 | Web Properties Budget Proposal-2017-2018    | Strategic budget proposal for services. Sensitive server information blacked out.        |
